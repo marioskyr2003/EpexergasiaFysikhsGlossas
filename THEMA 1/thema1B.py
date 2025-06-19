@@ -157,8 +157,8 @@ if __name__ == "__main__":
     set_seed(42)
 
     file_paths = [
-        "C:/Users/Desktop/EPEXERGASIAFYSIKHSGLWSSAS/textone.txt",
-        "C:/Users/Desktop/EPEXERGASIAFYSIKHSGLWSSAS/texttwo.txt"
+        "C:/Users/Mario/Desktop/EPEXERGASIAFYSIKHSGLWSSAS/textone.txt",
+        "C:/Users/Mario/Desktop/EPEXERGASIAFYSIKHSGLWSSAS/texttwo.txt"
     ]
 
     for file_path in file_paths:

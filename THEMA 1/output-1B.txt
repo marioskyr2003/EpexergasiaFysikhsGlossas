@@ -1,0 +1,68 @@
+C:\Users\Mario\anaconda3\envs\THEMA_2\python.exe "C:\Users\Mario\Desktop\EPEXERGASIAFYSIKHSGLWSSAS\THEMA 1\thema1B.py" 
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\Mario\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package wordnet to
+[nltk_data]     C:\Users\Mario\AppData\Roaming\nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+[nltk_data] Downloading package omw-1.4 to
+[nltk_data]     C:\Users\Mario\AppData\Roaming\nltk_data...
+[nltk_data]   Package omw-1.4 is already up-to-date!
+
+====================================================================================================
+FULL TEXT ANALYSIS FOR: textone.txt
+====================================================================================================
+
+Original Text:
+ Today is our dragon boat festival, in our Chinese culture, to celebrate it with all safe and great in
+our lives. Hope you too, to enjoy it as my deepest wishes. Thank your message to show our words to the doctor, as his next contract checking, to all of us. I got this message to see the approved message. In fact, I have received the message from the
+professor, to show me, this, a couple of days ago. I am very appreciated the full support of the
+professor, for our Springer proceedings publication ...
+
+
+NLTK RECONSTRUCTED TEXT:
+Today live our Draco boat festival , in our Taiwanese culture , to celebrate it with all safe and great inward our lives . Bob_Hope you to_a_fault , to enjoy it as my deepest wishes . Thank your subject_matter to show our words to the Doctor , AS his next contract turn_back , to all of us . I perplex this message to see the approved subject_matter . In fact , 1 have received the message from the prof , to exhibit Maine , this , a couple of days agone . I Artium_Magister selfsame comprehended the ...
+NLTK Cosine Similarity: 0.9713
+
+spaCy RECONSTRUCTED TEXT:
+Today is our dragon boat fete , in our Chinese finish , to celebrate it with all safe and great in 
+ our lives . Hope you too , to love it as my deepest wishing . give thanks your message to show our words to the doctor , as his next contract see to it , to all of us . I get this message to see the approve message . In fact , I have received the message from the 
+ professor , to show me , this , a couple of days agone . I am very treasure the to the full sustenance of the 
+ prof , for our Spring ...
+spaCy Cosine Similarity: 0.9514
+
+TextBlob RECONSTRUCTED TEXT:
+Today live our flying_dragon gravy_boat fete in our Formosan finish to lionise it with all secure and enceinte in our lifespan Bob_Hope you also to revel it as my deepest indirect_request give_thanks your content to express our dustup to the MD as his side_by_side declaration checking to all of us I pay_back this content to control the sanctioned substance In fact I bear receive the substance from the prof to shew me this a dyad of years ago I live rattling comprehended the entire financial_supp ...
+TextBlob Cosine Similarity: 0.9787
+>>> Paraphrased outputs saved to: C:/Users/Mario/Desktop/EPEXERGASIAFYSIKHSGLWSSAS\out_textoneB.txt
+
+====================================================================================================
+FULL TEXT ANALYSIS FOR: texttwo.txt
+====================================================================================================
+
+Original Text:
+ During our final discuss, I told him about the new submission — the one we were waiting since
+last autumn, but the updates was confusing as it not included the full feedback from reviewer or
+maybe editor? Anyway, I believe the team, although bit delay and less communication at recent days, they really
+tried best for paper and cooperation. We should be grateful, I mean all of us, for the acceptance
+and efforts until the Springer link came finally last week, I think. Also, kindly remind me please, ...
+
+
+NLTK RECONSTRUCTED TEXT:
+During our final discuss , I separate him about the novel submission — the one we embody waiting since stopping_point autumn , just the updates was confusing A information_technology not included the full feedback from reviewer Oregon maybe editor ? in_any_case , I believe the team , although bit delay and less communicating at recent days , they really attempt best for paper and cooperation . We should be thankful , I mean all of us , for the credence and efforts until the Springer link came ev ...
+NLTK Cosine Similarity: 0.9785
+
+spaCy RECONSTRUCTED TEXT:
+During our final discuss , I tell him about the new entry — the one we were waiting since 
+ last autumn , but the updates was flurry as it not included the full feedback from reviewer or 
+ maybe editor ? Anyway , I believe the team , although act stay and to a lesser extent communicating at recent day , they truly 
+ tried best for paper and cooperation . We should be grateful , I mean all of us , for the acceptance 
+ and efforts until the Springer link come at long last last week , I think . Als ...
+spaCy Cosine Similarity: 0.9602
+
+TextBlob RECONSTRUCTED TEXT:
+During our last discus I severalise him about the Modern meekness — the one we make_up expect since last-place fall but the update live befuddle as it non include the good feedback from referee or mayhap editor_in_chief anyhow I think the squad although fleck time_lag and less communicating at late Clarence_Shepard_Day_Jr. they in_truth test right for report and cooperation We should embody thankful I signify all of us for the toleration and endeavor until the impost tie-in hail at_long_last con ...
+TextBlob Cosine Similarity: 0.9794
+>>> Paraphrased outputs saved to: C:/Users/Mario/Desktop/EPEXERGASIAFYSIKHSGLWSSAS\out_texttwoB.txt
+
+Process finished with exit code 0

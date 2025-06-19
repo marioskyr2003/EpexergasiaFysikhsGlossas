@@ -1,7 +1,7 @@
 ==== NLTK Paraphrased Version ====
-Today be our Dragon boat festival , in our Formosan culture , to celebrate it with all safe and great inward our lives . Bob_Hope you besides , to enjoy it as my deepest wishes . Thank your substance to show our words to the fix , group_A his next contract check_into , to all of us . I find this message to see the approved substance . In fact , iodin have received the message from the prof , to demonstrate ME , this , a couple of days agone . I embody identical take_account the full suffer of the prof , for our Springer proceeding publication
+Today live our Draco boat festival , in our Taiwanese culture , to celebrate it with all safe and great inward our lives . Bob_Hope you to_a_fault , to enjoy it as my deepest wishes . Thank your subject_matter to show our words to the Doctor , AS his next contract turn_back , to all of us . I perplex this message to see the approved subject_matter . In fact , 1 have received the message from the prof , to exhibit Maine , this , a couple of days agone . I Artium_Magister selfsame comprehended the full fend_for of the prof , for our Springer minutes publication
 
-NLTK Cosine Similarity: 0.9651
+NLTK Cosine Similarity: 0.9713
 
 ==== spaCy Paraphrased Version ====
 Today is our dragon boat fete , in our Chinese finish , to celebrate it with all safe and great in 
@@ -9,10 +9,10 @@ Today is our dragon boat fete , in our Chinese finish , to celebrate it with all
  professor , to show me , this , a couple of days agone . I am very treasure the to the full sustenance of the 
  prof , for our Springer legal proceeding publication
 
-spaCy Cosine Similarity: 0.9597
+spaCy Cosine Similarity: 0.9514
 
 ==== TextBlob Paraphrased Version ====
-Today be our flying_dragon gravy_holder fete in our Formosan refinement to lionise it with all good and corking in our life-time promise you besides to relish it as my deepest want give_thanks your content to express our language to the Doctor as his succeeding declaration checking to all of us I get this content to insure the sanctioned subject_matter In fact I experience obtain the subject_matter from the prof to render me this a span of day ago I be really comprehended the broad supporting of the prof for our impost proceeding issue
+Today live our flying_dragon gravy_boat fete in our Formosan finish to lionise it with all secure and enceinte in our lifespan Bob_Hope you also to revel it as my deepest indirect_request give_thanks your content to express our dustup to the MD as his side_by_side declaration checking to all of us I pay_back this content to control the sanctioned substance In fact I bear receive the substance from the prof to shew me this a dyad of years ago I live rattling comprehended the entire financial_support of the prof for our impost legal_proceeding publishing
 
-TextBlob Cosine Similarity: 0.9798
+TextBlob Cosine Similarity: 0.9787
 

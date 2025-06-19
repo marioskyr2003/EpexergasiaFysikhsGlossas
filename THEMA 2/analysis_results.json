@@ -1,0 +1,1814 @@
+{
+  "spacy": {
+    "text1": {
+      "A": {
+        "document_similarity": 0.8237646222114563,
+        "word_similarity": 0.5898740887641907,
+        "vector_difference": 13.396993637084961,
+        "word_comparisons": {
+          "today": {
+            "most_similar": "today",
+            "score": 0.9999997615814209
+          },
+          "dragon": {
+            "most_similar": "dragon",
+            "score": 1.0000001192092896
+          },
+          "boat": {
+            "most_similar": "boat",
+            "score": 1.0
+          },
+          "festival": {
+            "most_similar": "celebrate",
+            "score": 0.5594254732131958
+          },
+          "chinese": {
+            "most_similar": "taiwanese",
+            "score": 0.8642223477363586
+          },
+          "culture": {
+            "most_similar": "culture",
+            "score": 0.9999999403953552
+          },
+          "celebrate": {
+            "most_similar": "celebrate",
+            "score": 1.0000003576278687
+          },
+          "safe": {
+            "most_similar": "safe",
+            "score": 1.0
+          },
+          "great": {
+            "most_similar": "appreciated",
+            "score": 0.5956833958625793
+          },
+          "lives": {
+            "most_similar": "lives",
+            "score": 1.0
+          },
+          "hope": {
+            "most_similar": "today",
+            "score": 0.42253684997558594
+          },
+          "enjoy": {
+            "most_similar": "celebrate",
+            "score": 0.5036133527755737
+          },
+          "deepest": {
+            "most_similar": "lives",
+            "score": 0.3042239248752594
+          },
+          "wishes": {
+            "most_similar": "appreciated",
+            "score": 0.3559361696243286
+          },
+          "thank": {
+            "most_similar": "appreciated",
+            "score": 0.4893728494644165
+          },
+          "message": {
+            "most_similar": "today",
+            "score": 0.3737943172454834
+          },
+          "show": {
+            "most_similar": "celebrate",
+            "score": 0.42810386419296265
+          },
+          "words": {
+            "most_similar": "appreciated",
+            "score": 0.2906642258167267
+          },
+          "doctor": {
+            "most_similar": "prof",
+            "score": 0.45786792039871216
+          },
+          "next": {
+            "most_similar": "today",
+            "score": 0.3609049320220947
+          },
+          "contract": {
+            "most_similar": "proceeding",
+            "score": 0.5540114641189575
+          },
+          "checking": {
+            "most_similar": "proceeding",
+            "score": 0.4952881336212158
+          },
+          "us": {
+            "most_similar": "today",
+            "score": 0.3622344136238098
+          },
+          "got": {
+            "most_similar": "bully",
+            "score": 0.2392609715461731
+          },
+          "see": {
+            "most_similar": "today",
+            "score": 0.37390977144241333
+          },
+          "approved": {
+            "most_similar": "proceeding",
+            "score": 0.5889723300933838
+          },
+          "fact": {
+            "most_similar": "appreciated",
+            "score": 0.3999144732952118
+          },
+          "received": {
+            "most_similar": "appreciated",
+            "score": 0.4749246835708618
+          },
+          "professor": {
+            "most_similar": "prof",
+            "score": 0.7836172580718994
+          },
+          "couple": {
+            "most_similar": "springer",
+            "score": 0.2992419898509979
+          },
+          "days": {
+            "most_similar": "today",
+            "score": 0.32542848587036133
+          },
+          "ago": {
+            "most_similar": "today",
+            "score": 0.13653986155986786
+          },
+          "appreciated": {
+            "most_similar": "appreciated",
+            "score": 1.0
+          },
+          "full": {
+            "most_similar": "fully",
+            "score": 0.5474880933761597
+          },
+          "support": {
+            "most_similar": "appreciated",
+            "score": 0.5388000011444092
+          },
+          "springer": {
+            "most_similar": "springer",
+            "score": 1.0000001192092896
+          },
+          "proceedings": {
+            "most_similar": "proceeding",
+            "score": 0.905500054359436
+          },
+          "publication": {
+            "most_similar": "publication",
+            "score": 1.000000238418579
+          }
+        }
+      },
+      "GPT": {
+        "document_similarity": 0.7121203541755676,
+        "word_similarity": 1.0,
+        "vector_difference": 22.15764045715332,
+        "word_comparisons": {
+          "today": {
+            "most_similar": "today",
+            "score": 0.9999997615814209
+          },
+          "dragon": {
+            "most_similar": "dragon",
+            "score": 1.0000001192092896
+          },
+          "boat": {
+            "most_similar": "boat",
+            "score": 1.0
+          },
+          "festival": {
+            "most_similar": "festival",
+            "score": 0.9999995231628418
+          },
+          "chinese": {
+            "most_similar": "chinese",
+            "score": 0.9999998807907104
+          },
+          "culture": {
+            "most_similar": "culture",
+            "score": 0.9999999403953552
+          },
+          "celebrate": {
+            "most_similar": "celebrate",
+            "score": 1.0000003576278687
+          },
+          "safe": {
+            "most_similar": "safe",
+            "score": 1.0
+          },
+          "great": {
+            "most_similar": "great",
+            "score": 1.0000001192092896
+          },
+          "lives": {
+            "most_similar": "lives",
+            "score": 0.9999999403953552
+          },
+          "hope": {
+            "most_similar": "hope",
+            "score": 1.0
+          },
+          "enjoy": {
+            "most_similar": "enjoy",
+            "score": 1.0
+          },
+          "deepest": {
+            "most_similar": "deepest",
+            "score": 1.000000238418579
+          },
+          "wishes": {
+            "most_similar": "wishes",
+            "score": 1.0000001192092896
+          },
+          "thank": {
+            "most_similar": "thank",
+            "score": 0.9999998807907104
+          },
+          "message": {
+            "most_similar": "message",
+            "score": 1.0000001192092896
+          },
+          "show": {
+            "most_similar": "show",
+            "score": 0.9999998807907104
+          },
+          "words": {
+            "most_similar": "words",
+            "score": 1.0
+          },
+          "doctor": {
+            "most_similar": "doctor",
+            "score": 1.000000238418579
+          },
+          "next": {
+            "most_similar": "next",
+            "score": 1.0000001192092896
+          },
+          "contract": {
+            "most_similar": "contract",
+            "score": 0.9999997615814209
+          },
+          "checking": {
+            "most_similar": "checking",
+            "score": 0.9999999403953552
+          },
+          "us": {
+            "most_similar": "us",
+            "score": 1.000000238418579
+          },
+          "got": {
+            "most_similar": "got",
+            "score": 0.9999999403953552
+          },
+          "see": {
+            "most_similar": "see",
+            "score": 1.0000001192092896
+          },
+          "approved": {
+            "most_similar": "approved",
+            "score": 1.0000001192092896
+          },
+          "fact": {
+            "most_similar": "fact",
+            "score": 1.0
+          },
+          "received": {
+            "most_similar": "received",
+            "score": 1.0000001192092896
+          },
+          "professor": {
+            "most_similar": "professor",
+            "score": 0.9999998211860657
+          },
+          "couple": {
+            "most_similar": "couple",
+            "score": 1.0
+          },
+          "days": {
+            "most_similar": "days",
+            "score": 0.9999999403953552
+          },
+          "ago": {
+            "most_similar": "ago",
+            "score": 0.9999997615814209
+          },
+          "appreciated": {
+            "most_similar": "appreciated",
+            "score": 1.0
+          },
+          "full": {
+            "most_similar": "full",
+            "score": 1.000000238418579
+          },
+          "support": {
+            "most_similar": "support",
+            "score": 0.9999998211860657
+          },
+          "springer": {
+            "most_similar": "springer",
+            "score": 1.0000001192092896
+          },
+          "proceedings": {
+            "most_similar": "proceedings",
+            "score": 1.0
+          },
+          "publication": {
+            "most_similar": "publication",
+            "score": 1.000000238418579
+          }
+        }
+      }
+    },
+    "text2": {
+      "A": {
+        "document_similarity": 0.9474291801452637,
+        "word_similarity": 0.6437962055206299,
+        "vector_difference": 8.235077857971191,
+        "word_comparisons": {
+          "final": {
+            "most_similar": "last",
+            "score": 0.5648539066314697
+          },
+          "discuss": {
+            "most_similar": "acknowledgments",
+            "score": 0.5561188459396362
+          },
+          "told": {
+            "most_similar": "think",
+            "score": 0.3528576195240021
+          },
+          "new": {
+            "most_similar": "finally",
+            "score": 0.3808874785900116
+          },
+          "submission": {
+            "most_similar": "exertion",
+            "score": 0.7072410583496094
+          },
+          "one": {
+            "most_similar": "still",
+            "score": 0.42894279956817627
+          },
+          "waiting": {
+            "most_similar": "sending",
+            "score": 0.5761361122131348
+          },
+          "since": {
+            "most_similar": "finally",
+            "score": 0.4856978952884674
+          },
+          "last": {
+            "most_similar": "last",
+            "score": 1.0
+          },
+          "autumn": {
+            "most_similar": "springer",
+            "score": 0.714510440826416
+          },
+          "updates": {
+            "most_similar": "link",
+            "score": 0.48891445994377136
+          },
+          "confusing": {
+            "most_similar": "think",
+            "score": 0.5290904641151428
+          },
+          "included": {
+            "most_similar": "section",
+            "score": 0.47658830881118774
+          },
+          "full": {
+            "most_similar": "springer",
+            "score": 0.3069304823875427
+          },
+          "feedback": {
+            "most_similar": "prompt",
+            "score": 0.5194304585456848
+          },
+          "reviewer": {
+            "most_similar": "also",
+            "score": 0.3539707660675049
+          },
+          "maybe": {
+            "most_similar": "think",
+            "score": 0.674307644367218
+          },
+          "editor": {
+            "most_similar": "edit",
+            "score": 0.5223385691642761
+          },
+          "anyway": {
+            "most_similar": "think",
+            "score": 0.6449934244155884
+          },
+          "believe": {
+            "most_similar": "think",
+            "score": 0.8115200996398926
+          },
+          "team": {
+            "most_similar": "finally",
+            "score": 0.36429253220558167
+          },
+          "although": {
+            "most_similar": "still",
+            "score": 0.6484436988830566
+          },
+          "bit": {
+            "most_similar": "think",
+            "score": 0.42473745346069336
+          },
+          "delay": {
+            "most_similar": "prompt",
+            "score": 0.4361686706542969
+          },
+          "less": {
+            "most_similar": "still",
+            "score": 0.45821765065193176
+          },
+          "communication": {
+            "most_similar": "exertion",
+            "score": 0.7570816278457642
+          },
+          "recent": {
+            "most_similar": "last",
+            "score": 0.45469173789024353
+          },
+          "days": {
+            "most_similar": "last",
+            "score": 0.29858526587486267
+          },
+          "really": {
+            "most_similar": "think",
+            "score": 0.7577617168426514
+          },
+          "tried": {
+            "most_similar": "came",
+            "score": 0.4202343821525574
+          },
+          "best": {
+            "most_similar": "also",
+            "score": 0.30330419540405273
+          },
+          "paper": {
+            "most_similar": "section",
+            "score": 0.3210216760635376
+          },
+          "cooperation": {
+            "most_similar": "exertion",
+            "score": 0.7585189342498779
+          },
+          "grateful": {
+            "most_similar": "grateful",
+            "score": 1.0
+          },
+          "mean": {
+            "most_similar": "mean",
+            "score": 1.0
+          },
+          "us": {
+            "most_similar": "us",
+            "score": 1.000000238418579
+          },
+          "acceptance": {
+            "most_similar": "acceptation",
+            "score": 0.7906405925750732
+          },
+          "efforts": {
+            "most_similar": "exertion",
+            "score": 0.5448175668716431
+          },
+          "springer": {
+            "most_similar": "springer",
+            "score": 1.0
+          },
+          "link": {
+            "most_similar": "link",
+            "score": 1.0
+          },
+          "came": {
+            "most_similar": "came",
+            "score": 1.0
+          },
+          "finally": {
+            "most_similar": "finally",
+            "score": 0.9999999403953552
+          },
+          "week": {
+            "most_similar": "springer",
+            "score": 0.36825528740882874
+          },
+          "think": {
+            "most_similar": "think",
+            "score": 0.9999997615814209
+          },
+          "also": {
+            "most_similar": "also",
+            "score": 0.9999998807907104
+          },
+          "kindly": {
+            "most_similar": "please",
+            "score": 0.5842649340629578
+          },
+          "remind": {
+            "most_similar": "think",
+            "score": 0.5861729979515076
+          },
+          "please": {
+            "most_similar": "please",
+            "score": 1.0000001192092896
+          },
+          "doctor": {
+            "most_similar": "doctor",
+            "score": 1.000000238418579
+          },
+          "still": {
+            "most_similar": "still",
+            "score": 1.0000001192092896
+          },
+          "plan": {
+            "most_similar": "plan",
+            "score": 0.9999998807907104
+          },
+          "acknowledgments": {
+            "most_similar": "acknowledgments",
+            "score": 1.000000238418579
+          },
+          "section": {
+            "most_similar": "section",
+            "score": 1.000000238418579
+          },
+          "edit": {
+            "most_similar": "edit",
+            "score": 1.0000003576278687
+          },
+          "sending": {
+            "most_similar": "sending",
+            "score": 1.0
+          },
+          "see": {
+            "most_similar": "think",
+            "score": 0.615246593952179
+          },
+          "part": {
+            "most_similar": "section",
+            "score": 0.49110153317451477
+          },
+          "yet": {
+            "most_similar": "still",
+            "score": 0.5415394306182861
+          },
+          "missed": {
+            "most_similar": "last",
+            "score": 0.4092811644077301
+          },
+          "apologize": {
+            "most_similar": "think",
+            "score": 0.4958289563655853
+          },
+          "overall": {
+            "most_similar": "exertion",
+            "score": 0.5181956887245178
+          },
+          "let": {
+            "most_similar": "please",
+            "score": 0.47228848934173584
+          },
+          "make": {
+            "most_similar": "think",
+            "score": 0.4466639757156372
+          },
+          "sure": {
+            "most_similar": "think",
+            "score": 0.5724061727523804
+          },
+          "safe": {
+            "most_similar": "still",
+            "score": 0.39804068207740784
+          },
+          "celebrate": {
+            "most_similar": "unity",
+            "score": 0.4067710340023041
+          },
+          "outcome": {
+            "most_similar": "exertion",
+            "score": 0.5710087418556213
+          },
+          "strong": {
+            "most_similar": "exertion",
+            "score": 0.49087753891944885
+          },
+          "coffee": {
+            "most_similar": "think",
+            "score": 0.2468061000108719
+          },
+          "future": {
+            "most_similar": "exertion",
+            "score": 0.498654305934906
+          },
+          "targets": {
+            "most_similar": "exertion",
+            "score": 0.4983035624027252
+          }
+        }
+      },
+      "GPT": {
+        "document_similarity": 0.9710156917572021,
+        "word_similarity": 1.0,
+        "vector_difference": 6.889059543609619,
+        "word_comparisons": {
+          "final": {
+            "most_similar": "final",
+            "score": 1.0
+          },
+          "discuss": {
+            "most_similar": "discuss",
+            "score": 1.0
+          },
+          "told": {
+            "most_similar": "told",
+            "score": 0.9999997615814209
+          },
+          "new": {
+            "most_similar": "new",
+            "score": 1.000000238418579
+          },
+          "submission": {
+            "most_similar": "submission",
+            "score": 1.0
+          },
+          "one": {
+            "most_similar": "one",
+            "score": 0.9999996423721313
+          },
+          "waiting": {
+            "most_similar": "waiting",
+            "score": 0.9999997615814209
+          },
+          "since": {
+            "most_similar": "since",
+            "score": 0.9999997615814209
+          },
+          "last": {
+            "most_similar": "last",
+            "score": 1.0
+          },
+          "autumn": {
+            "most_similar": "autumn",
+            "score": 0.9999998807907104
+          },
+          "updates": {
+            "most_similar": "updates",
+            "score": 1.0
+          },
+          "confusing": {
+            "most_similar": "confusing",
+            "score": 0.9999999403953552
+          },
+          "included": {
+            "most_similar": "included",
+            "score": 1.0
+          },
+          "full": {
+            "most_similar": "full",
+            "score": 1.000000238418579
+          },
+          "feedback": {
+            "most_similar": "feedback",
+            "score": 1.0
+          },
+          "reviewer": {
+            "most_similar": "reviewer",
+            "score": 0.9999998807907104
+          },
+          "maybe": {
+            "most_similar": "maybe",
+            "score": 0.9999998807907104
+          },
+          "editor": {
+            "most_similar": "editor",
+            "score": 1.000000238418579
+          },
+          "anyway": {
+            "most_similar": "anyway",
+            "score": 1.0
+          },
+          "believe": {
+            "most_similar": "believe",
+            "score": 0.9999998807907104
+          },
+          "team": {
+            "most_similar": "team",
+            "score": 1.0
+          },
+          "although": {
+            "most_similar": "although",
+            "score": 1.0000001192092896
+          },
+          "bit": {
+            "most_similar": "bit",
+            "score": 0.9999997615814209
+          },
+          "delay": {
+            "most_similar": "delay",
+            "score": 0.9999998807907104
+          },
+          "less": {
+            "most_similar": "less",
+            "score": 0.9999996423721313
+          },
+          "communication": {
+            "most_similar": "communication",
+            "score": 0.9999999403953552
+          },
+          "recent": {
+            "most_similar": "recent",
+            "score": 1.0
+          },
+          "days": {
+            "most_similar": "days",
+            "score": 0.9999999403953552
+          },
+          "really": {
+            "most_similar": "really",
+            "score": 1.000000238418579
+          },
+          "tried": {
+            "most_similar": "tried",
+            "score": 0.9999998807907104
+          },
+          "best": {
+            "most_similar": "best",
+            "score": 1.0
+          },
+          "paper": {
+            "most_similar": "paper",
+            "score": 1.0
+          },
+          "cooperation": {
+            "most_similar": "cooperation",
+            "score": 1.0000001192092896
+          },
+          "grateful": {
+            "most_similar": "grateful",
+            "score": 1.0
+          },
+          "mean": {
+            "most_similar": "mean",
+            "score": 1.0
+          },
+          "us": {
+            "most_similar": "us",
+            "score": 1.000000238418579
+          },
+          "acceptance": {
+            "most_similar": "acceptance",
+            "score": 0.9999996423721313
+          },
+          "efforts": {
+            "most_similar": "efforts",
+            "score": 0.9999998211860657
+          },
+          "springer": {
+            "most_similar": "springer",
+            "score": 1.0000001192092896
+          },
+          "link": {
+            "most_similar": "link",
+            "score": 1.000000238418579
+          },
+          "came": {
+            "most_similar": "came",
+            "score": 1.0000001192092896
+          },
+          "finally": {
+            "most_similar": "finally",
+            "score": 0.9999998807907104
+          },
+          "week": {
+            "most_similar": "week",
+            "score": 1.0000001192092896
+          },
+          "think": {
+            "most_similar": "think",
+            "score": 0.9999997615814209
+          },
+          "also": {
+            "most_similar": "also",
+            "score": 0.9999998807907104
+          },
+          "kindly": {
+            "most_similar": "kindly",
+            "score": 1.0
+          },
+          "remind": {
+            "most_similar": "remind",
+            "score": 1.0
+          },
+          "please": {
+            "most_similar": "please",
+            "score": 1.0000001192092896
+          },
+          "doctor": {
+            "most_similar": "doctor",
+            "score": 1.000000238418579
+          },
+          "still": {
+            "most_similar": "still",
+            "score": 1.0000001192092896
+          },
+          "plan": {
+            "most_similar": "plan",
+            "score": 0.9999998807907104
+          },
+          "acknowledgments": {
+            "most_similar": "acknowledgments",
+            "score": 1.000000238418579
+          },
+          "section": {
+            "most_similar": "section",
+            "score": 1.000000238418579
+          },
+          "edit": {
+            "most_similar": "edit",
+            "score": 1.0000003576278687
+          },
+          "sending": {
+            "most_similar": "sending",
+            "score": 1.0
+          },
+          "see": {
+            "most_similar": "see",
+            "score": 1.0000001192092896
+          },
+          "part": {
+            "most_similar": "part",
+            "score": 0.9999998807907104
+          },
+          "yet": {
+            "most_similar": "yet",
+            "score": 1.000000238418579
+          },
+          "missed": {
+            "most_similar": "missed",
+            "score": 0.9999999403953552
+          },
+          "apologize": {
+            "most_similar": "apologize",
+            "score": 1.000000238418579
+          },
+          "overall": {
+            "most_similar": "overall",
+            "score": 0.9999998807907104
+          },
+          "let": {
+            "most_similar": "let",
+            "score": 0.9999999403953552
+          },
+          "make": {
+            "most_similar": "make",
+            "score": 0.9999998807907104
+          },
+          "sure": {
+            "most_similar": "sure",
+            "score": 0.9999997019767761
+          },
+          "safe": {
+            "most_similar": "safe",
+            "score": 1.0
+          },
+          "celebrate": {
+            "most_similar": "celebrate",
+            "score": 1.0000003576278687
+          },
+          "outcome": {
+            "most_similar": "outcome",
+            "score": 1.0
+          },
+          "strong": {
+            "most_similar": "strong",
+            "score": 0.9999998211860657
+          },
+          "coffee": {
+            "most_similar": "coffee",
+            "score": 0.9999998211860657
+          },
+          "future": {
+            "most_similar": "future",
+            "score": 1.0000001192092896
+          },
+          "targets": {
+            "most_similar": "targets",
+            "score": 0.9999995827674866
+          }
+        }
+      }
+    }
+  },
+  "bert": {
+    "text1": {
+      "A": {
+        "document_similarity": 0.8408307433128357,
+        "word_similarity": 0.611539363861084,
+        "vector_difference": 4.892526626586914,
+        "word_comparisons": {
+          "today": {
+            "most_similar": "today",
+            "score": 0.7421805262565613
+          },
+          "dragon": {
+            "most_similar": "dragon",
+            "score": 0.8979499936103821
+          },
+          "boat": {
+            "most_similar": "boat",
+            "score": 0.8374285697937012
+          },
+          "festival": {
+            "most_similar": "celebrate",
+            "score": 0.5814601182937622
+          },
+          "chinese": {
+            "most_similar": "taiwanese",
+            "score": 0.7422827482223511
+          },
+          "culture": {
+            "most_similar": "culture",
+            "score": 0.865842342376709
+          },
+          "celebrate": {
+            "most_similar": "celebrate",
+            "score": 0.8633120656013489
+          },
+          "safe": {
+            "most_similar": "safe",
+            "score": 0.8050220608711243
+          },
+          "great": {
+            "most_similar": "bully",
+            "score": 0.5889883637428284
+          },
+          "lives": {
+            "most_similar": "lives",
+            "score": 0.7690733671188354
+          },
+          "hope": {
+            "most_similar": "celebrate",
+            "score": 0.6491799354553223
+          },
+          "enjoy": {
+            "most_similar": "celebrate",
+            "score": 0.705357015132904
+          },
+          "deepest": {
+            "most_similar": "safe",
+            "score": 0.4948469400405884
+          },
+          "wishes": {
+            "most_similar": "lives",
+            "score": 0.5468560457229614
+          },
+          "thank": {
+            "most_similar": "celebrate",
+            "score": 0.48360592126846313
+          },
+          "message": {
+            "most_similar": "fully",
+            "score": 0.489309698343277
+          },
+          "show": {
+            "most_similar": "appreciated",
+            "score": 0.5242366790771484
+          },
+          "words": {
+            "most_similar": "appreciated",
+            "score": 0.5611995458602905
+          },
+          "doctor": {
+            "most_similar": "appreciated",
+            "score": 0.5645312070846558
+          },
+          "next": {
+            "most_similar": "fully",
+            "score": 0.5852290987968445
+          },
+          "contract": {
+            "most_similar": "appreciated",
+            "score": 0.6019018888473511
+          },
+          "checking": {
+            "most_similar": "appreciated",
+            "score": 0.5514814257621765
+          },
+          "us": {
+            "most_similar": "fully",
+            "score": 0.6009731292724609
+          },
+          "got": {
+            "most_similar": "appreciated",
+            "score": 0.6183006167411804
+          },
+          "see": {
+            "most_similar": "appreciated",
+            "score": 0.5801569223403931
+          },
+          "approved": {
+            "most_similar": "appreciated",
+            "score": 0.6069931387901306
+          },
+          "fact": {
+            "most_similar": "appreciated",
+            "score": 0.5269578099250793
+          },
+          "received": {
+            "most_similar": "appreciated",
+            "score": 0.5383539199829102
+          },
+          "professor": {
+            "most_similar": "prof",
+            "score": 0.5890843272209167
+          },
+          "couple": {
+            "most_similar": "boat",
+            "score": 0.4214000701904297
+          },
+          "days": {
+            "most_similar": "today",
+            "score": 0.4980161488056183
+          },
+          "ago": {
+            "most_similar": "today",
+            "score": 0.5342170596122742
+          },
+          "appreciated": {
+            "most_similar": "appreciated",
+            "score": 0.7586278319358826
+          },
+          "full": {
+            "most_similar": "fully",
+            "score": 0.6296743750572205
+          },
+          "support": {
+            "most_similar": "fully",
+            "score": 0.5621335506439209
+          },
+          "springer": {
+            "most_similar": "springer",
+            "score": 0.7056093215942383
+          },
+          "proceedings": {
+            "most_similar": "proceeding",
+            "score": 0.6028882265090942
+          },
+          "publication": {
+            "most_similar": "publication",
+            "score": 0.5727068185806274
+          }
+        }
+      },
+      "GPT": {
+        "document_similarity": 0.8096791505813599,
+        "word_similarity": 0.9444558620452881,
+        "vector_difference": 5.744670867919922,
+        "word_comparisons": {
+          "today": {
+            "most_similar": "today",
+            "score": 0.9536556005477905
+          },
+          "dragon": {
+            "most_similar": "dragon",
+            "score": 0.9768612384796143
+          },
+          "boat": {
+            "most_similar": "boat",
+            "score": 0.9419130682945251
+          },
+          "festival": {
+            "most_similar": "festival",
+            "score": 0.9829729795455933
+          },
+          "chinese": {
+            "most_similar": "chinese",
+            "score": 0.9800806045532227
+          },
+          "culture": {
+            "most_similar": "culture",
+            "score": 0.9724310636520386
+          },
+          "celebrate": {
+            "most_similar": "celebrate",
+            "score": 0.9755495190620422
+          },
+          "safe": {
+            "most_similar": "safe",
+            "score": 0.9773279428482056
+          },
+          "great": {
+            "most_similar": "great",
+            "score": 0.9712809324264526
+          },
+          "lives": {
+            "most_similar": "lives",
+            "score": 0.9630141854286194
+          },
+          "hope": {
+            "most_similar": "hope",
+            "score": 0.9792212843894958
+          },
+          "enjoy": {
+            "most_similar": "enjoy",
+            "score": 0.9386600255966187
+          },
+          "deepest": {
+            "most_similar": "deepest",
+            "score": 0.957473874092102
+          },
+          "wishes": {
+            "most_similar": "wishes",
+            "score": 0.969889223575592
+          },
+          "thank": {
+            "most_similar": "thank",
+            "score": 0.9671573638916016
+          },
+          "message": {
+            "most_similar": "message",
+            "score": 0.9570492506027222
+          },
+          "show": {
+            "most_similar": "show",
+            "score": 0.9586181640625
+          },
+          "words": {
+            "most_similar": "words",
+            "score": 0.9545021057128906
+          },
+          "doctor": {
+            "most_similar": "doctor",
+            "score": 0.948493480682373
+          },
+          "next": {
+            "most_similar": "next",
+            "score": 0.976608157157898
+          },
+          "contract": {
+            "most_similar": "contract",
+            "score": 0.9691574573516846
+          },
+          "checking": {
+            "most_similar": "checking",
+            "score": 0.9676715135574341
+          },
+          "us": {
+            "most_similar": "us",
+            "score": 0.969723105430603
+          },
+          "got": {
+            "most_similar": "got",
+            "score": 0.9683066010475159
+          },
+          "see": {
+            "most_similar": "see",
+            "score": 0.9662988781929016
+          },
+          "approved": {
+            "most_similar": "approved",
+            "score": 0.962173342704773
+          },
+          "fact": {
+            "most_similar": "fact",
+            "score": 0.9597436189651489
+          },
+          "received": {
+            "most_similar": "received",
+            "score": 0.9557688236236572
+          },
+          "professor": {
+            "most_similar": "professor",
+            "score": 0.9159454107284546
+          },
+          "couple": {
+            "most_similar": "couple",
+            "score": 0.9586035013198853
+          },
+          "days": {
+            "most_similar": "days",
+            "score": 0.8886736631393433
+          },
+          "ago": {
+            "most_similar": "ago",
+            "score": 0.9375737905502319
+          },
+          "appreciated": {
+            "most_similar": "appreciated",
+            "score": 0.9333559274673462
+          },
+          "full": {
+            "most_similar": "full",
+            "score": 0.9177950024604797
+          },
+          "support": {
+            "most_similar": "support",
+            "score": 0.9175063371658325
+          },
+          "springer": {
+            "most_similar": "springer",
+            "score": 0.9088452458381653
+          },
+          "proceedings": {
+            "most_similar": "proceedings",
+            "score": 0.8302474021911621
+          },
+          "publication": {
+            "most_similar": "publication",
+            "score": 0.5582199096679688
+          }
+        }
+      }
+    },
+    "text2": {
+      "A": {
+        "document_similarity": 0.8721717596054077,
+        "word_similarity": 0.6536869406700134,
+        "vector_difference": 4.597541332244873,
+        "word_comparisons": {
+          "final": {
+            "most_similar": "finally",
+            "score": 0.6144570708274841
+          },
+          "discuss": {
+            "most_similar": "springer",
+            "score": 0.6495221853256226
+          },
+          "told": {
+            "most_similar": "springer",
+            "score": 0.6639765501022339
+          },
+          "new": {
+            "most_similar": "finally",
+            "score": 0.6318226456642151
+          },
+          "submission": {
+            "most_similar": "sending",
+            "score": 0.5651067495346069
+          },
+          "one": {
+            "most_similar": "last",
+            "score": 0.5985187292098999
+          },
+          "waiting": {
+            "most_similar": "still",
+            "score": 0.6115608215332031
+          },
+          "since": {
+            "most_similar": "last",
+            "score": 0.576284646987915
+          },
+          "last": {
+            "most_similar": "last",
+            "score": 0.7517432570457458
+          },
+          "autumn": {
+            "most_similar": "last",
+            "score": 0.5064050555229187
+          },
+          "updates": {
+            "most_similar": "plan",
+            "score": 0.6038296818733215
+          },
+          "confusing": {
+            "most_similar": "springer",
+            "score": 0.7189967632293701
+          },
+          "included": {
+            "most_similar": "finally",
+            "score": 0.6168658137321472
+          },
+          "full": {
+            "most_similar": "still",
+            "score": 0.6577422022819519
+          },
+          "feedback": {
+            "most_similar": "plan",
+            "score": 0.6094920039176941
+          },
+          "reviewer": {
+            "most_similar": "springer",
+            "score": 0.6160385608673096
+          },
+          "maybe": {
+            "most_similar": "still",
+            "score": 0.5369805097579956
+          },
+          "editor": {
+            "most_similar": "plan",
+            "score": 0.5827975869178772
+          },
+          "anyway": {
+            "most_similar": "still",
+            "score": 0.5955430269241333
+          },
+          "believe": {
+            "most_similar": "springer",
+            "score": 0.6860208511352539
+          },
+          "team": {
+            "most_similar": "springer",
+            "score": 0.6392167210578918
+          },
+          "although": {
+            "most_similar": "still",
+            "score": 0.5849688649177551
+          },
+          "bit": {
+            "most_similar": "came",
+            "score": 0.481386661529541
+          },
+          "delay": {
+            "most_similar": "finally",
+            "score": 0.5303479433059692
+          },
+          "less": {
+            "most_similar": "still",
+            "score": 0.5520288944244385
+          },
+          "communication": {
+            "most_similar": "sending",
+            "score": 0.6040846705436707
+          },
+          "recent": {
+            "most_similar": "finally",
+            "score": 0.5381107330322266
+          },
+          "days": {
+            "most_similar": "finally",
+            "score": 0.5209328532218933
+          },
+          "really": {
+            "most_similar": "finally",
+            "score": 0.6613883376121521
+          },
+          "tried": {
+            "most_similar": "finally",
+            "score": 0.6613490581512451
+          },
+          "best": {
+            "most_similar": "finally",
+            "score": 0.6471813917160034
+          },
+          "paper": {
+            "most_similar": "springer",
+            "score": 0.5756755471229553
+          },
+          "cooperation": {
+            "most_similar": "springer",
+            "score": 0.7153971791267395
+          },
+          "grateful": {
+            "most_similar": "springer",
+            "score": 0.76584792137146
+          },
+          "mean": {
+            "most_similar": "mean",
+            "score": 0.7700777053833008
+          },
+          "us": {
+            "most_similar": "us",
+            "score": 0.6866418123245239
+          },
+          "acceptance": {
+            "most_similar": "accept",
+            "score": 0.669987678527832
+          },
+          "efforts": {
+            "most_similar": "springer",
+            "score": 0.5759543180465698
+          },
+          "springer": {
+            "most_similar": "springer",
+            "score": 0.8800666332244873
+          },
+          "link": {
+            "most_similar": "link",
+            "score": 0.87739098072052
+          },
+          "came": {
+            "most_similar": "came",
+            "score": 0.8754773736000061
+          },
+          "finally": {
+            "most_similar": "finally",
+            "score": 0.8134627938270569
+          },
+          "week": {
+            "most_similar": "finally",
+            "score": 0.5337194204330444
+          },
+          "think": {
+            "most_similar": "plan",
+            "score": 0.6259557604789734
+          },
+          "also": {
+            "most_similar": "still",
+            "score": 0.6529699563980103
+          },
+          "kindly": {
+            "most_similar": "please",
+            "score": 0.618085503578186
+          },
+          "remind": {
+            "most_similar": "springer",
+            "score": 0.6623735427856445
+          },
+          "please": {
+            "most_similar": "please",
+            "score": 0.7964133620262146
+          },
+          "doctor": {
+            "most_similar": "doctor",
+            "score": 0.865570068359375
+          },
+          "still": {
+            "most_similar": "still",
+            "score": 0.8681845664978027
+          },
+          "plan": {
+            "most_similar": "plan",
+            "score": 0.8412619829177856
+          },
+          "ac": {
+            "most_similar": "ac",
+            "score": 0.8602390885353088
+          },
+          "section": {
+            "most_similar": "section",
+            "score": 0.8200885057449341
+          },
+          "edit": {
+            "most_similar": "edit",
+            "score": 0.7161588668823242
+          },
+          "sending": {
+            "most_similar": "sending",
+            "score": 0.7543764710426331
+          },
+          "see": {
+            "most_similar": "springer",
+            "score": 0.654504656791687
+          },
+          "part": {
+            "most_similar": "section",
+            "score": 0.6170109510421753
+          },
+          "yet": {
+            "most_similar": "finally",
+            "score": 0.5965160727500916
+          },
+          "missed": {
+            "most_similar": "springer",
+            "score": 0.5719630122184753
+          },
+          "apologize": {
+            "most_similar": "grateful",
+            "score": 0.6474024653434753
+          },
+          "overall": {
+            "most_similar": "springer",
+            "score": 0.5743210315704346
+          },
+          "let": {
+            "most_similar": "still",
+            "score": 0.5294365882873535
+          },
+          "make": {
+            "most_similar": "last",
+            "score": 0.5286824703216553
+          },
+          "sure": {
+            "most_similar": "finally",
+            "score": 0.5322220325469971
+          },
+          "safe": {
+            "most_similar": "finally",
+            "score": 0.5969138145446777
+          },
+          "celebrate": {
+            "most_similar": "springer",
+            "score": 0.6410970091819763
+          },
+          "outcome": {
+            "most_similar": "finally",
+            "score": 0.5571837425231934
+          },
+          "strong": {
+            "most_similar": "finally",
+            "score": 0.591819167137146
+          },
+          "coffee": {
+            "most_similar": "springer",
+            "score": 0.6816431283950806
+          },
+          "future": {
+            "most_similar": "finally",
+            "score": 0.5807234644889832
+          },
+          "targets": {
+            "most_similar": "think",
+            "score": 0.7374931573867798
+          }
+        }
+      },
+      "GPT": {
+        "document_similarity": 0.9004871845245361,
+        "word_similarity": 0.9616445899009705,
+        "vector_difference": 4.018738269805908,
+        "word_comparisons": {
+          "final": {
+            "most_similar": "final",
+            "score": 0.9640752077102661
+          },
+          "discuss": {
+            "most_similar": "discuss",
+            "score": 0.9916821718215942
+          },
+          "told": {
+            "most_similar": "told",
+            "score": 0.9751841425895691
+          },
+          "new": {
+            "most_similar": "new",
+            "score": 0.9883440136909485
+          },
+          "submission": {
+            "most_similar": "submission",
+            "score": 0.9858294129371643
+          },
+          "one": {
+            "most_similar": "one",
+            "score": 0.9854488372802734
+          },
+          "waiting": {
+            "most_similar": "waiting",
+            "score": 0.9864541888237
+          },
+          "since": {
+            "most_similar": "since",
+            "score": 0.9881369471549988
+          },
+          "last": {
+            "most_similar": "last",
+            "score": 0.9777709245681763
+          },
+          "autumn": {
+            "most_similar": "autumn",
+            "score": 0.9480646252632141
+          },
+          "updates": {
+            "most_similar": "updates",
+            "score": 0.9367371201515198
+          },
+          "confusing": {
+            "most_similar": "confusing",
+            "score": 0.9757344126701355
+          },
+          "included": {
+            "most_similar": "included",
+            "score": 0.9860775470733643
+          },
+          "full": {
+            "most_similar": "full",
+            "score": 0.9743694067001343
+          },
+          "feedback": {
+            "most_similar": "feedback",
+            "score": 0.9824258089065552
+          },
+          "reviewer": {
+            "most_similar": "reviewer",
+            "score": 0.9859437942504883
+          },
+          "maybe": {
+            "most_similar": "maybe",
+            "score": 0.9591525197029114
+          },
+          "editor": {
+            "most_similar": "editor",
+            "score": 0.9857204556465149
+          },
+          "anyway": {
+            "most_similar": "anyway",
+            "score": 0.9827793836593628
+          },
+          "believe": {
+            "most_similar": "believe",
+            "score": 0.9861003160476685
+          },
+          "team": {
+            "most_similar": "team",
+            "score": 0.9858224391937256
+          },
+          "although": {
+            "most_similar": "although",
+            "score": 0.9837808609008789
+          },
+          "bit": {
+            "most_similar": "bit",
+            "score": 0.9846137762069702
+          },
+          "delay": {
+            "most_similar": "delay",
+            "score": 0.985480546951294
+          },
+          "less": {
+            "most_similar": "less",
+            "score": 0.9890571236610413
+          },
+          "communication": {
+            "most_similar": "communication",
+            "score": 0.9888225793838501
+          },
+          "recent": {
+            "most_similar": "recent",
+            "score": 0.9849608540534973
+          },
+          "days": {
+            "most_similar": "days",
+            "score": 0.9861012101173401
+          },
+          "really": {
+            "most_similar": "really",
+            "score": 0.9766271710395813
+          },
+          "tried": {
+            "most_similar": "tried",
+            "score": 0.9875043630599976
+          },
+          "best": {
+            "most_similar": "best",
+            "score": 0.9817396402359009
+          },
+          "paper": {
+            "most_similar": "paper",
+            "score": 0.9845571517944336
+          },
+          "cooperation": {
+            "most_similar": "cooperation",
+            "score": 0.9728761911392212
+          },
+          "grateful": {
+            "most_similar": "grateful",
+            "score": 0.8942318558692932
+          },
+          "mean": {
+            "most_similar": "mean",
+            "score": 0.9385273456573486
+          },
+          "us": {
+            "most_similar": "us",
+            "score": 0.9533913731575012
+          },
+          "acceptance": {
+            "most_similar": "acceptance",
+            "score": 0.9822374582290649
+          },
+          "efforts": {
+            "most_similar": "efforts",
+            "score": 0.9836056232452393
+          },
+          "springer": {
+            "most_similar": "springer",
+            "score": 0.9872981905937195
+          },
+          "link": {
+            "most_similar": "link",
+            "score": 0.9769940972328186
+          },
+          "came": {
+            "most_similar": "came",
+            "score": 0.9730821847915649
+          },
+          "finally": {
+            "most_similar": "finally",
+            "score": 0.9817152619361877
+          },
+          "week": {
+            "most_similar": "week",
+            "score": 0.9806494116783142
+          },
+          "think": {
+            "most_similar": "think",
+            "score": 0.9733352661132812
+          },
+          "also": {
+            "most_similar": "also",
+            "score": 0.9685655236244202
+          },
+          "kindly": {
+            "most_similar": "kindly",
+            "score": 0.8938705921173096
+          },
+          "remind": {
+            "most_similar": "remind",
+            "score": 0.9710375070571899
+          },
+          "please": {
+            "most_similar": "please",
+            "score": 0.9714395403862
+          },
+          "doctor": {
+            "most_similar": "doctor",
+            "score": 0.957461953163147
+          },
+          "still": {
+            "most_similar": "still",
+            "score": 0.9723515510559082
+          },
+          "plan": {
+            "most_similar": "plan",
+            "score": 0.9781779646873474
+          },
+          "ac": {
+            "most_similar": "ac",
+            "score": 0.9705451726913452
+          },
+          "section": {
+            "most_similar": "section",
+            "score": 0.9707088470458984
+          },
+          "edit": {
+            "most_similar": "edit",
+            "score": 0.9725965261459351
+          },
+          "sending": {
+            "most_similar": "sending",
+            "score": 0.9824615716934204
+          },
+          "see": {
+            "most_similar": "see",
+            "score": 0.970879316329956
+          },
+          "part": {
+            "most_similar": "part",
+            "score": 0.9710939526557922
+          },
+          "yet": {
+            "most_similar": "yet",
+            "score": 0.9644628167152405
+          },
+          "missed": {
+            "most_similar": "missed",
+            "score": 0.9608766436576843
+          },
+          "apologize": {
+            "most_similar": "apologize",
+            "score": 0.9558572173118591
+          },
+          "overall": {
+            "most_similar": "overall",
+            "score": 0.9013068675994873
+          },
+          "let": {
+            "most_similar": "let",
+            "score": 0.9335319995880127
+          },
+          "make": {
+            "most_similar": "make",
+            "score": 0.9467957615852356
+          },
+          "sure": {
+            "most_similar": "sure",
+            "score": 0.9312142133712769
+          },
+          "safe": {
+            "most_similar": "safe",
+            "score": 0.9122521281242371
+          },
+          "celebrate": {
+            "most_similar": "celebrate",
+            "score": 0.9051042795181274
+          },
+          "outcome": {
+            "most_similar": "outcome",
+            "score": 0.9210970401763916
+          },
+          "strong": {
+            "most_similar": "strong",
+            "score": 0.9231996536254883
+          },
+          "coffee": {
+            "most_similar": "coffee",
+            "score": 0.8709596395492554
+          },
+          "future": {
+            "most_similar": "future",
+            "score": 0.8731802105903625
+          },
+          "targets": {
+            "most_similar": "targets",
+            "score": 0.6874077320098877
+          }
+        }
+      }
+    }
+  }
+}

@@ -24,8 +24,8 @@ set_seed(42)
 
 # Read input text files
 file_paths = [
-    "C:/Users/Desktop/EPEXERGASIAFYSIKHSGLWSSAS/textone.txt",
-    "C:/UsersDesktop/EPEXERGASIAFYSIKHSGLWSSAS/texttwo.txt"
+    "C:/Users/Mario/Desktop/EPEXERGASIAFYSIKHSGLWSSAS/textone.txt",
+    "C:/Users/Mario/Desktop/EPEXERGASIAFYSIKHSGLWSSAS/texttwo.txt"
 ]
 
 all_results = []

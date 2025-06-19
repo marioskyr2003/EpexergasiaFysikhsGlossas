@@ -1,0 +1,36 @@
+C:\Users\Mario\anaconda3\envs\THEMA_2\python.exe "C:\Users\Mario\Desktop\EPEXERGASIAFYSIKHSGLWSSAS\THEMA 1\thema1A.py" 
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\Mario\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package wordnet to
+[nltk_data]     C:\Users\Mario\AppData\Roaming\nltk_data...
+[nltk_data] Downloading package omw-1.4 to
+[nltk_data]     C:\Users\Mario\AppData\Roaming\nltk_data...
+Paraphrased Sentence Analysis:
+
+
+=== Results for textone.txt ===
+
+Original: I am very appreciated the full support of the
+professor, for our Springer proceedings publication
+Paraphrased: iodin americium very appreciated the entire supporting of the prof , for our Springer minutes publication
+Cosine Similarity: 0.7532
+
+Original: Today is our dragon boat festival, in our Chinese culture, to celebrate it with all safe and great in
+our lives.
+Paraphrased: now is our dragon boat fete , in our Taiwanese culture , to celebrate it with all safe and corking in our lives .
+Cosine Similarity: 0.9230
+
+=== Results for texttwo.txt ===
+
+Original: Also, kindly remind me please, if the doctor still plan for the acknowledgments section edit before
+he sending again.
+Paraphrased: Also , good-hearted prompt me please , if the physician still plan for the acknowledgments section edit ahead he sending over_again .
+Cosine Similarity: 0.9076
+
+Original: We should be grateful, I mean all of us, for the acceptance
+and efforts until the Springer link came finally last week, I think.
+Paraphrased: We should be grateful , ane mean all of us , for the adoption and effort until the Springer link came finally last calendar_week , ace think .
+Cosine Similarity: 0.9043
+
+Process finished with exit code 0

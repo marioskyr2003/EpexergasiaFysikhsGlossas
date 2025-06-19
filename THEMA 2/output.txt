@@ -1,0 +1,90 @@
+C:\Users\Mario\anaconda3\envs\THEMA_2\python.exe "C:\Users\Mario\Desktop\EPEXERGASIAFYSIKHSGLWSSAS\THEMA 2\analysis.py" 
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\Mario\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\Mario\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+
+========= MODEL: SPACY =========
+Device set to use cpu
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+
+--- ANALYSIS FOR TEXT1 ---
+
+Method          Doc Similarity  Word Similarity Vector Diff    
+A               0.8238        0.5899        13.3970
+GPT             0.7121        1.0000        22.1576
+
+Example word comparisons:
+
+Method A:
+  'today' → 'today' (score: 1.00)
+  'dragon' → 'dragon' (score: 1.00)
+  'boat' → 'boat' (score: 1.00)
+
+Method GPT:
+  'today' → 'today' (score: 1.00)
+  'dragon' → 'dragon' (score: 1.00)
+  'boat' → 'boat' (score: 1.00)
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+
+--- ANALYSIS FOR TEXT2 ---
+
+Method          Doc Similarity  Word Similarity Vector Diff    
+A               0.9474        0.6438        8.2351
+GPT             0.9710        1.0000        6.8891
+
+Example word comparisons:
+
+Method A:
+  'final' → 'last' (score: 0.56)
+  'discuss' → 'acknowledgments' (score: 0.56)
+  'told' → 'think' (score: 0.35)
+
+Method GPT:
+  'final' → 'final' (score: 1.00)
+  'discuss' → 'discuss' (score: 1.00)
+  'told' → 'told' (score: 1.00)
+
+========= MODEL: BERT =========
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+
+--- ANALYSIS FOR TEXT1 ---
+
+Method          Doc Similarity  Word Similarity Vector Diff    
+A               0.8408        0.6115        4.8925
+GPT             0.8097        0.9445        5.7447
+
+Example word comparisons:
+
+Method A:
+  'today' → 'today' (score: 0.74)
+  'dragon' → 'dragon' (score: 0.90)
+  'boat' → 'boat' (score: 0.84)
+
+Method GPT:
+  'today' → 'today' (score: 0.95)
+  'dragon' → 'dragon' (score: 0.98)
+  'boat' → 'boat' (score: 0.94)
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+
+--- ANALYSIS FOR TEXT2 ---
+
+Method          Doc Similarity  Word Similarity Vector Diff    
+A               0.8722        0.6537        4.5975
+GPT             0.9005        0.9616        4.0187
+
+Example word comparisons:
+
+Method A:
+  'final' → 'finally' (score: 0.61)
+  'discuss' → 'springer' (score: 0.65)
+  'told' → 'springer' (score: 0.66)
+
+Method GPT:
+  'final' → 'final' (score: 0.96)
+  'discuss' → 'discuss' (score: 0.99)
+  'told' → 'told' (score: 0.98)
+
+Process finished with exit code 0

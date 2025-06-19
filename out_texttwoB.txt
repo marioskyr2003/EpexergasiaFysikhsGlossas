@@ -1,7 +1,7 @@
 ==== NLTK Paraphrased Version ====
-During our final discuss , I separate him about the newly submission — the one we exist waiting since terminal autumn , simply the updates was confusing A IT not included the full feedback from reviewer Beaver_State maybe editor ? anyway , I believe the team , although bit delay and less communicating at recent days , they really prove best for paper and cooperation . We should be thankful , I mean all of us , for the sufferance and efforts until the Springer link came ultimately last week , I think . Also , kindly prompt me please , if the repair even plan for the acknowledgments section edit earlier helium sending again . Because I didn ’ tetraiodothyronine see that part final yet , or maybe I overleap , I apologize if so . Overall , net_ball us shit sure all are safe and celebrate the outcome with strong coffee and future targets
+During our final discuss , I separate him about the novel submission — the one we embody waiting since stopping_point autumn , just the updates was confusing A information_technology not included the full feedback from reviewer Oregon maybe editor ? in_any_case , I believe the team , although bit delay and less communicating at recent days , they really attempt best for paper and cooperation . We should be thankful , I mean all of us , for the credence and efforts until the Springer link came eventually last week , I think . Also , kindly prompt me please , if the bushel stock-still plan for the acknowledgments section edit in_front helium sending again . Because I didn ’ thyroxin see that part final yet , or maybe I drop , I apologize if so . Overall , LET us get sure all are safe and celebrate the outcome with strong coffee and future targets
 
-NLTK Cosine Similarity: 0.9802
+NLTK Cosine Similarity: 0.9785
 
 ==== spaCy Paraphrased Version ====
 During our final discuss , I tell him about the new entry — the one we were waiting since 
@@ -12,10 +12,10 @@ During our final discuss , I tell him about the new entry — the one we were wa
  he send once more . Because I did n’t see that percentage final yet , or perchance I missed , I apologize if so . boilersuit , countenance us make sure all are safe and observe the outcome with strong coffee and future 
  targets
 
-spaCy Cosine Similarity: 0.9533
+spaCy Cosine Similarity: 0.9602
 
 ==== TextBlob Paraphrased Version ====
-During our net discus I order him about the young entry — the one we live hold_back since net fall but the update be jumble as it non include the wide feedback from reader or peradventure editor_program in_any_case I consider the squad although number postponement and less communicating at late daytime they real try_out beneficial for report and cooperation We should exist thankful I entail all of us for the credence and travail until the impost connexion derive last terminal hebdomad I guess as_well kindly cue me delight if the Dr. nevertheless architectural_plan for the quotation subdivision edit before he institutionalize once_more Because I didn ’ liothyronine encounter that persona terminal so_far or perhaps I overleap I excuse if and_so Overall rent us defecate indisputable all exist good and lionise the final_result with firm deep_brown and next fair_game
+During our last discus I severalise him about the Modern meekness — the one we make_up expect since last-place fall but the update live befuddle as it non include the good feedback from referee or mayhap editor_in_chief anyhow I think the squad although fleck time_lag and less communicating at late Clarence_Shepard_Day_Jr. they in_truth test right for report and cooperation We should embody thankful I signify all of us for the toleration and endeavor until the impost tie-in hail at_long_last concluding hebdomad I reckon besides kindly cue me delight if the Doctor_of_the_Church even design for the citation plane_section edit before he broadcast once_again Because I didn ’ thyroxine realize that office concluding however or possibly I drop I rationalize if and_so Overall rent us piddle trusted all embody secure and lionise the termination with substantial burnt_umber and succeeding fair_game
 
-TextBlob Cosine Similarity: 0.9750
+TextBlob Cosine Similarity: 0.9794
 
