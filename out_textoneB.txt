@@ -1,0 +1,18 @@
+==== NLTK Paraphrased Version ====
+Today be our Dragon boat festival , in our Formosan culture , to celebrate it with all safe and great inward our lives . Bob_Hope you besides , to enjoy it as my deepest wishes . Thank your substance to show our words to the fix , group_A his next contract check_into , to all of us . I find this message to see the approved substance . In fact , iodin have received the message from the prof , to demonstrate ME , this , a couple of days agone . I embody identical take_account the full suffer of the prof , for our Springer proceeding publication
+
+NLTK Cosine Similarity: 0.9651
+
+==== spaCy Paraphrased Version ====
+Today is our dragon boat fete , in our Chinese finish , to celebrate it with all safe and great in 
+ our lives . Hope you too , to love it as my deepest wishing . give thanks your message to show our words to the doctor , as his next contract see to it , to all of us . I get this message to see the approve message . In fact , I have received the message from the 
+ professor , to show me , this , a couple of days agone . I am very treasure the to the full sustenance of the 
+ prof , for our Springer legal proceeding publication
+
+spaCy Cosine Similarity: 0.9597
+
+==== TextBlob Paraphrased Version ====
+Today be our flying_dragon gravy_holder fete in our Formosan refinement to lionise it with all good and corking in our life-time promise you besides to relish it as my deepest want give_thanks your content to express our language to the Doctor as his succeeding declaration checking to all of us I get this content to insure the sanctioned subject_matter In fact I experience obtain the subject_matter from the prof to render me this a span of day ago I be really comprehended the broad supporting of the prof for our impost proceeding issue
+
+TextBlob Cosine Similarity: 0.9798
+
